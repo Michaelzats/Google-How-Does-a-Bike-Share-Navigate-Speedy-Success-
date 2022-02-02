@@ -1,1 +1,1 @@
-# Google-How-Does-a-Bike-Share-Navigate-Speedy-Success-
+The case study performed in R language from Google Data Analytics course
